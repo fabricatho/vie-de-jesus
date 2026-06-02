@@ -9,13 +9,15 @@ Contient les figurines 3D suivantes :
 <img src="images/Voyage.png" width="400">
 
 
-# A venir 
-
 ## Dossier "Anges"
 - Ange de la nativité
 - Petit ange 1
 - Petit ange 2
 - Petit ange 3
+<img src="images/Anges.png" width="400">
+
+
+# A venir 
 
 ## Dossier "Bergers"
 - Adulte 1
