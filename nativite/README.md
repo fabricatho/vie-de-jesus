@@ -31,15 +31,17 @@ Nota : Si on veut l'olivier, il est dans la scène de la visitation
 
 <img src="images/Bergers.png" width="400">
 
-# A venir 
 
 ## La Naissance
-- Marie à genoux
+- Marie mains jointes
 - Mangeoire 
 - Enfant jésus
 - Etoile
 (il faut aussi imprimer Joseph et l'âne de "Voyage")
 
+- Variante : Marie à genoux - à tester
+
+<img src="images/Naissance.png" width="400">
 
 
 
